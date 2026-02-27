@@ -1,6 +1,5 @@
 # software-systems-soup-for-the-soul
 
-versioning + distribution + testing + changelog + command aliasing (make/just) + license + readme + docs
-strict conceptual accuracy in filesystem structure until otherwise required
-
-
+goal: 
+ A) a place for me to store knowledge on software engineering and computer systems
+ B) a place for me to be opinionated about software engineering and computer systems
